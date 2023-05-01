@@ -1,0 +1,6 @@
+username=fair_wee
+app_id=gOhKkBtFBpue3MTd
+app_secret=OO7zhuLqMR+bmnoiSwlXPO0WFZmG74Nm/+NOGHqNNFk=
+
+mongodb_username=fair
+mongodb_password=ELgmZq3SRMA9kfmO
